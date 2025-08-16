@@ -13,7 +13,7 @@ Hi, I’m Reina! I’m currently studying Software Engineering at McGill with a 
 
 During my co‑op internships, I’ve had the chance to work on **flight simulators** and **automation systems** at CAE. I love the challenge of combining low‑level systems knowledge (Linux, C, ARM assembly) with modern development practices (React, Spring, Docker, Azure DevOps). My favorite moments are when I can simplify a messy workflow with a few well‑placed scripts or see a project come alive on screen.
 
-Outside of school and work, I enjoy robotics projects, tinkering with automation scripts, and following Formula 1 🏎️. I’m motivated by solving practical problems, collaborating with teammates, and constantly learning new technologies.
+Outside of school and work, I enjoy robotics projects, creative software development, and following Formula 1 🏎️. I’m motivated by solving practical problems, collaborating with teammates, and constantly learning new technologies.
 
 ### 🧰 Tech
 `Java` `Python` `C` `C++` `Bash` `ARM asm` `JavaScript` `React` `Spring` `PostgreSQL` `Docker` `Azure DevOps` `VMware` `Linux` `PowerShell` `FastAPI` `Selenium` `JUnit` `Pytest`
