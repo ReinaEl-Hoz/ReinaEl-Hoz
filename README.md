@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Reina El‑Hoz 👋</h1>
 
 <p align="center">
-  McGill Co‑op Software Engineering • Minor in Applied AI • Montreal, Canada
+  McGill Co‑op Software Engineering • Montreal, Canada
   <br/>
   <a href="mailto:rehz2004@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/reina-el-hoz-84702a267/">LinkedIn</a>
 </p>
