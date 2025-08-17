@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About me
-Hi, I’m Reina! I’m currently studying Software Engineering at McGill with a minor in Applied AI. I’ve always been curious about how things work under the hood, whether it’s a computer system, a robot, or an app, and that curiosity has pushed me to build and break things since a youngin.
+Hi, I’m Reina! I’m currently studying Software Engineering at McGill. I’ve always been curious about how things work under the hood, whether it’s a computer system, a robot, or an app, and that curiosity has pushed me to build and break things since a youngin.
 
 During my co‑op internships, I’ve had the chance to work on **flight simulators** and **automation systems** at CAE. I love the challenge of combining low‑level systems knowledge (Linux, C, ARM assembly) with modern development practices (React, Spring, Docker, Azure DevOps). My favorite moments are when I can simplify a messy workflow with a few well‑placed scripts or see a project come alive on screen.
 
