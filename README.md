@@ -51,10 +51,12 @@ My co-op experience spans **insurance software development** at Intact, **Linux 
 - **KPMG Ace the Case Competition** *(Jan 2026)* — Placed 4th out of 12 teams in a business case competition.
 
 - **ConuHacks X — MemeCoin Gambling Casino** — Built a trading casino where users bet on agentic AI models competing to trade simulated meme coins. Engineered concurrent agent execution with Python asyncio & FastAPI, WebSocket-driven news feeds, and a React frontend with live data visualization and DeFi-inspired settlement logic.
-Devpost: https://devpost.com/software/meme-coin-casino?ref_content=my-projects-tab&ref_feature=my_projects | Repo: https://github.com/McGill-ECSE321-Winter2025/project-group-14
+[[Devpost]] (https://devpost.com/software/meme-coin-casino?ref_content=my-projects-tab&ref_feature=my_projects) |[[Repo]] (https://github.com/McGill-ECSE321-Winter2025/project-group-14)
 
 - **CodeJam 15 — AI Analytics Tool** — Built an AI-driven analytics tool that generates SQL queries and interactive plots from natural-language questions, with correlation analysis, business improvement suggestions, and a full dashboard builder.
-Devpost: https://devpost.com/software/queryon?ref_content=my-projects-tab&ref_feature=my_projects | Repo: https://github.com/ReinaEl-Hoz/CodeJam15
+[[Devpost]] (https://devpost.com/software/queryon?ref_content=my-projects-tab&ref_feature=my_projects) | [[Repo]] (https://github.com/ReinaEl-Hoz/CodeJam15)
+
+- **Vis — AI Desktop Assistant** — Cross-platform, privacy-first AI co-pilot integrating OpenAI and Ollama for on-device reasoning and task automation, with an Electron + React frontend and an animated chameleon avatar. 
 
 ---
 
