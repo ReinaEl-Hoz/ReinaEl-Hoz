@@ -57,6 +57,15 @@ Devpost: https://devpost.com/software/meme-coin-casino?ref_content=my-projects-t
 Devpost: https://devpost.com/software/queryon?ref_content=my-projects-tab&ref_feature=my_projects | Repo: https://github.com/ReinaEl-Hoz/CodeJam15
 
 ---
+
+### 📌 Featured School Projects
+
+- **Medium‑Scale Web App** — Java/Spring/PostgreSQL/React with CI/CD and tests. [[Repo]](https://github.com/McGill-ECSE321-Winter2025/project-group-14) · [[Demo]](https://www.linkedin.com/posts/hamza-abu-daqa_softwareengineering-springboot-postgresql-ugcPost-7323168242364018689-cSAq/)
+- **ARM/FPGA Coursework** — Custom 16‑bit CPU, memory‑mapped I/O drivers, C + ASM game.
+- **BrickPi Robots** — Digital Flute & Autonomous Collector (Python, sensors, algorithms). [[Repo]](https://github.com/HamzaAbudaqa/ECSE211)
+- **Model‑Based App** — JavaFX + Umple, Gherkin, state machines, UI/UX. [[Demo]](https://www.youtube.com/watch?v=SR2dtWJAINY)
+
+---
 ### 📮 Contact
 
 Always open to chats about internships, projects, or tech in general. Reach me via email or LinkedIn!
