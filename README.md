@@ -45,7 +45,7 @@ My co-op experience spans **insurance software development** at Intact, **Linux 
 - Automated provisioning and validation workflows with Bash and PowerShell, reducing setup time for simulation clusters.
 - Optimized the RHEL imaging pipeline in Azure DevOps with differential download logic and kickstart builds.
 
-** Automation Specialist Intern — CAE** *(May – Aug 2024)*
+**Automation Specialist Intern — CAE** *(May – Aug 2024)*
 - Automated IT workflows using Power Automate and PowerShell, improving ticket resolution speed by ~80%.
 - Designed an Azure-based database matching new issues to historical resolutions, cutting resolution time from ~1 week to minutes.
 - Produced data-driven insights using Power BI and Excel to support software compliance and asset optimization.
