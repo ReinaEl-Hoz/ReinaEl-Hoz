@@ -56,14 +56,10 @@ My co-op experience spans **insurance software development** at Intact, **Linux 
 
 - **KPMG Ace the Case Competition** *(Jan 2026)* — Placed 4th out of 12 teams in a business case competition.
 
-- **ConuHacks X — MemeCoin Gambling Casino** - Built a trading casino where users bet on agentic AI models competing to trade simulated meme coins. - Built a multi-agent trading simulation where autonomous AI agents executed distinct trading strategies in a simulated meme-coin market
-- Engineered concurrent agent orchestration (Python asyncio, FastAPI) with real-time WebSocket news feeds driving sentiment-based decision-making and price reactions across agents
-- Designed agent behavior using prompt-driven strategy differentiation, giving each agent a distinct "personality" and risk profile from a shared LLM backend
+- **ConuHacks X — MemeCoin Gambling Casino** : Built a multi-agent trading simulation where autonomous AI agents executed distinct trading strategies in a simulated meme-coin market. Engineered concurrent agent orchestration (Python asyncio, FastAPI) with real-time WebSocket news feeds driving sentiment-based decision-making and price reactions across agents. Designed agent behavior using prompt-driven strategy differentiation, giving each agent a distinct "personality" and risk profile from a shared LLM backend
 [[Devpost]](https://devpost.com/software/meme-coin-casino?ref_content=my-projects-tab&ref_feature=my_projects) | [[Repo]](https://github.com/McGill-ECSE321-Winter2025/project-group-14)
 
-- **CodeJam 15 — AI Analytics Tool** — Built a natural-language-to-SQL analytics tool using LLM-based query generation, translating plain-English questions into executable SQL and interactive visualizations
-- Designed a privacy-preserving architecture that sends only database schema (not raw data) to the model, minimizing data exposure while preserving query accuracy
-- Extended the tool with automated correlation analysis and business-insight generation, turning raw query results into actionable recommendations
+- **CodeJam 15 — AI Analytics Tool** : Built a natural-language-to-SQL analytics tool using LLM-based query generation, translating plain-English questions into executable SQL and interactive visualizations. Designed a privacy-preserving architecture that sends only database schema (not raw data) to the model, minimizing data exposure while preserving query accuracy. Extended the tool with automated correlation analysis and business-insight generation, turning raw query results into actionable recommendations
 [[Devpost]](https://devpost.com/software/queryon?ref_content=my-projects-tab&ref_feature=my_projects) | [[Repo]](https://github.com/ReinaEl-Hoz/CodeJam15)
 
 ---
