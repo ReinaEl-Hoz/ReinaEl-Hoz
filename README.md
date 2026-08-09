@@ -13,7 +13,7 @@ Hi, I'm Reina! I'm a Software Engineering student at McGill with a growing focus
 
 I have a particular interest in **data** — finding ways to manipulate, structure, and present it in ways that are meaningful and visually compelling to users. Whether it's building dashboards, analytics tools, or data-driven interfaces, I enjoy the craft of turning raw information into something useful and intuitive.
 
-My co-op experience spans **insurance software development** at Intact, **Linux systems and DevOps** at CAE, and I'm heading into **RBC Capital Markets** next as a Quality Engineer. Outside of school and work, I enjoy hackathons, case competitions, and following football (not soccer)⚽.
+My co-op experience spans **insurance software development** at Intact, **Linux systems and DevOps** at CAE, and I'm heading into **RBC** next as a Test Automation Developer. Outside of school and work, I enjoy hackathons, case competitions, and following football (not soccer)⚽.
 
 ---
 
