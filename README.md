@@ -54,6 +54,15 @@ My co-op experience spans **insurance software development** at Intact, **Linux 
 
 ### 🏆 Hackathons & Side Projects
 
+- **Filana - Founder & CEO (Built, pre-launch)**   [[Filana Website]](https://filanawebsite.vercel.app)
+
+AI-powered iOS app automating tax organization for Canadian small businesses and freelancers
+- Architected a hybrid LLM + rule-based transaction categorization engine using the OpenAI API, mapping bank transactions (via Plaid) to CRA tax codes with deterministic fallback logic to control cost and reduce hallucination risk
+- Built an NLP-based receipt-matching pipeline that parses receipts pulled from email/photo capture and reconciles them against transaction records using fuzzy matching and structured data extraction
+- Designed a real-time deduction-detection system combining prompt-engineered LLM classification with rule-based eligibility checks, surfacing tax write-offs continuously instead of at year-end
+- Engineered the system to minimize LLM calls and cost by routing high-confidence cases through rule-based logic, reserving model inference for ambiguous cases
+
+
 - **KPMG Ace the Case Competition** *(Jan 2026)* — Placed 4th out of 12 teams in a business case competition.
 
 - **ConuHacks X — MemeCoin Gambling Casino** : Built a multi-agent trading simulation where autonomous AI agents executed distinct trading strategies in a simulated meme-coin market. Engineered concurrent agent orchestration (Python asyncio, FastAPI) with real-time WebSocket news feeds driving sentiment-based decision-making and price reactions across agents. Designed agent behavior using prompt-driven strategy differentiation, giving each agent a distinct "personality" and risk profile from a shared LLM backend
