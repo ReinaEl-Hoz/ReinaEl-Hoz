@@ -25,7 +25,13 @@ My co-op experience spans **insurance software development** at Intact, **Linux 
 
 ### 💼 Experience
 
-**Incoming Quality Engineer — RBC Capital Markets** *(May – Aug 2026)*
+**Test Automation Developer — RBC** *(May – Aug 2026)*
+- Developed and maintained automated test scripts and tooling for personal banking, business banking and mortgage features using python, SQL, playwright and selenium.
+- Integrated the Outlook Mail REST API with Python to programmatically retrieve email-based verification codes, enabling fully automated end-to-end test flows
+-Built SQL & Python scripts for backend verification workflows, including automated code retrieval and data validation across banking systems.
+-Set up and maintained CI/CD pipelines  integrating automated tests using Azure DevOps and GitHub
+-Participated in PI planning and Agile ceremonies within a large scale SAFe delivery model
+
 
 **Software Developer Intern — Intact Insurance** *(Jan – Apr 2026)*
 - Developed Client Centre APIs for policy generation using Java, Kotlin, and NestJS within a microservices architecture.
@@ -39,7 +45,7 @@ My co-op experience spans **insurance software development** at Intact, **Linux 
 - Automated provisioning and validation workflows with Bash and PowerShell, reducing setup time for simulation clusters.
 - Optimized the RHEL imaging pipeline in Azure DevOps with differential download logic and kickstart builds.
 
-**IT Automation Intern — CAE** *(May – Aug 2024)*
+** Automation Specialist Intern — CAE** *(May – Aug 2024)*
 - Automated IT workflows using Power Automate and PowerShell, improving ticket resolution speed by ~80%.
 - Designed an Azure-based database matching new issues to historical resolutions, cutting resolution time from ~1 week to minutes.
 - Produced data-driven insights using Power BI and Excel to support software compliance and asset optimization.
