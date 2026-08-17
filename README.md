@@ -26,7 +26,7 @@ My co-op experience spans **insurance software development** at Intact, **Linux 
 ### 💼 Experience
 
 **Test Automation Developer — RBC** *(May – Aug 2026)*  
--Developed and maintained automated test scripts and tooling for personal banking, business banking, and mortgage features using Python, SQL, Playwright, and Selenium
+- Developed and maintained automated test scripts and tooling for personal banking, business banking, and mortgage features using Python, SQL, Playwright, and Selenium
 - Integrated the Outlook Mail REST API with Python to programmatically retrieve email-based verification codes and built supporting SQL scripts for backend data validation, enabling fully automated end-to-end test flows
 - Engineered an AI-assisted self-healing mechanism for Selenium/Playwright test scripts, using LLM-based DOM comparison to detect and auto-suggest updated locators when UI changes broke existing tests — catching 6 UI-breaking changes to date and reducing manual test maintenance overhead
 - Integrated Azure DevOps pipelines with GitHub Actions to unify CI/CD triggers across repositories, streamlining automated test execution on code changes
