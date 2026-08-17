@@ -26,19 +26,20 @@ My co-op experience spans **insurance software development** at Intact, **Linux 
 ### 💼 Experience
 
 **Test Automation Developer — RBC** *(May – Aug 2026)*
-- Developed and maintained automated test scripts and tooling for personal banking, business banking and mortgage features using python, SQL, playwright and selenium.
-- Integrated the Outlook Mail REST API with Python to programmatically retrieve email-based verification codes, enabling fully automated end-to-end test flows
--Built SQL & Python scripts for backend verification workflows, including automated code retrieval and data validation across banking systems.
--Set up and maintained CI/CD pipelines  integrating automated tests using Azure DevOps and GitHub
--Participated in PI planning and Agile ceremonies within a large scale SAFe delivery model
+-Developed and maintained automated test scripts and tooling for personal banking, business banking, and mortgage features using Python, SQL, Playwright, and Selenium
+- Integrated the Outlook Mail REST API with Python to programmatically retrieve email-based verification codes and built supporting SQL scripts for backend data validation, enabling fully automated end-to-end test flows
+- Engineered an AI-assisted self-healing mechanism for Selenium/Playwright test scripts, using LLM-based DOM comparison to detect and auto-suggest updated locators when UI changes broke existing tests — catching 6 UI-breaking changes to date and reducing manual test maintenance overhead
+- Integrated Azure DevOps pipelines with GitHub Actions to unify CI/CD triggers across repositories, streamlining automated test execution on code changes
 
 
 **Software Developer Intern — Intact Insurance** *(Jan – Apr 2026)*
-- Developed Client Centre APIs for policy generation using Java, Kotlin, and NestJS within a microservices architecture.
-- Resolved critical dependency conflicts and led version migrations across multiple legacy Java services, reducing technical debt.
-- Remediated high-severity security vulnerabilities across production codebases via SonarQube.
-- Migrated end-to-end testing infrastructure from Katalon to Playwright and implemented integration and component tests.
-- Engineered AI prompts to validate component test integrity, identifying false positives and ensuring accurate test behavior.
+- Developed Client Centre APIs for policy generation using Java, Kotlin, and NestJS within a microservices architecture
+- Owned propagation of API contract changes across dependent microservices, ensuring a single schema update cascaded consistently through 10+ downstream repositories; led migration of legacy services from deprecated to current API version
+- Leveraged the GitHub REST API to programmatically pull API contract definitions (yaml) from dependent repositories, generating shared objects to enable clean, decoupled cross-service communication
+- Engineered AI prompts to validate component test integrity, catching false positives and ensuring tests accurately reflected intended code behavior; selected to present the prompt at the unit's monthly "Prompt of the Month" showcase to an audience of 50+
+- Led version migrations and resolved critical dependency conflicts across multiple legacy Java services, restoring stability and reducing technical debt
+- Remediated high-severity security vulnerabilities across production codebases
+- Refactored legacy Angular UI components using modern libraries, updating the visual design and improving overall user experience across the tool
 
 **Integration Specialist Intern — CAE** *(May – Aug 2025)*
 - Tuned and hardened Linux simulator nodes for stable real-time performance.
